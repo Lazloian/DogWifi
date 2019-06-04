@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DogWifi)(type Legacy)(uri /home/henry/Projects/DogWifi/KiCad/DogWifi.lib)(options "")(descr ""))
+  (lib (name PCBv1-rescue)(type Legacy)(uri ${KIPRJMOD}/PCBv1-rescue.lib)(options "")(descr ""))
+)

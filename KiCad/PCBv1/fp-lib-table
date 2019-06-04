@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DogWifi_Footprints)(type KiCad)(uri D:/Projects/DogWifi/KiCad/DogWifi_Footprints.pretty)(options "")(descr ""))
+)
